@@ -1,0 +1,8 @@
+# ignore the labellmg application
+# reference: https://github.com/tzutalin/labelImg
+
+labelImg/
+
+# ignore all images
+*.png
+*.jpg

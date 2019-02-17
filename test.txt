@@ -1,0 +1,9 @@
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_37.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_39.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_50.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_1.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_15.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_21.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_61.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_90.png
+/home/flarelink/Documents/Github_Projects/Pokemon_Lets_Go_Shiny_Hunting/images/Shiny_Pokemon/Gastly/Gastly_75.png
